@@ -7,7 +7,7 @@
     @vite([])
 </head>
 <body>
-    <h1>Product</h1>
+    <h1>List of Products</h1>
     <div class="">
         @if(session()->has('success'))
             <div class="">
