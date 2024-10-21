@@ -8,7 +8,8 @@
     @vite([])
 </head>
 <body>
-    <h1>Create a Products</h1>
+   <h1>Create a Product</h1>
+   <h1>Create a Product</h1>
     <div class="">
         @if($errors->any())
         <ul>
